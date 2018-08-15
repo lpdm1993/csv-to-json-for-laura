@@ -28,7 +28,7 @@ results.forEach(x => {
     line_2: x.address_line2,
     postal_code: x.postal_code
   }
-
+ 
   let company = {
     object_type: "company",
     external_id: x.id,
