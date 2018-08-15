@@ -1,0 +1,1314 @@
+{
+    "meta": {
+        "verison": "0.0.1",
+        "created_at": "2018-08-15T08:49:11.807Z",
+        "feed_name": "the corporateions"
+    },
+    "settings": {
+        "type": "create/update"
+    },
+    "data": {
+        "companies": [
+            {
+                "object_type": "company",
+                "external_id": "467a6e84-716a-4f79-ac34-d3ccac2d4e1f",
+                "status": "live",
+                "name": "FTD Companies, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "John Wall",
+                    "line_2": "Mongar",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Kolkata"
+            },
+            {
+                "object_type": "company",
+                "external_id": "1d8f19b8-3e12-496e-8b09-87f4181f3af7",
+                "status": "live",
+                "name": "Macquarie Global Infrastructure Total Return Fund Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Sage",
+                    "line_2": "Huaraz",
+                    "postal_code": ""
+                },
+                "timezone": "America/Lima"
+            },
+            {
+                "object_type": "company",
+                "external_id": "a14efd98-c484-4bc9-b026-f48eefd3363c",
+                "status": "live",
+                "name": "Boston Omaha Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Sycamore",
+                    "line_2": "Jacksonville",
+                    "postal_code": "32204"
+                },
+                "timezone": "America/New_York"
+            },
+            {
+                "object_type": "company",
+                "external_id": "12fecb01-80e8-46b8-a094-a97e608bcd4a",
+                "status": "live",
+                "name": "Unilever PLC",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Westerfield",
+                    "line_2": "Yongfeng",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Harbin"
+            },
+            {
+                "object_type": "company",
+                "external_id": "6deda776-8e77-4773-8628-873fb706e266",
+                "status": "live",
+                "name": "Commerce Bancshares, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Muir",
+                    "line_2": "Concepcion",
+                    "postal_code": "7213"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "30802516-e6d8-445c-8b75-3915e1aa2ded",
+                "status": "live",
+                "name": "VictoryShares US Large Cap High Div Volatility Wtd ETF",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Fremont",
+                    "line_2": "Trélazé",
+                    "postal_code": "49804 CEDEX"
+                },
+                "timezone": "Europe/Paris"
+            },
+            {
+                "object_type": "company",
+                "external_id": "47c02fb2-4f5c-4a40-98d7-3a0800eae422",
+                "status": "live",
+                "name": "Eagle Bancorp Montana, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Farmco",
+                    "line_2": "Poroj",
+                    "postal_code": "1216"
+                },
+                "timezone": "Europe/Skopje"
+            },
+            {
+                "object_type": "company",
+                "external_id": "8bde3e40-6c6e-421a-a94b-9e35917d5abe",
+                "status": "live",
+                "name": "Appian Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Dexter",
+                    "line_2": "Karakabak",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Almaty"
+            },
+            {
+                "object_type": "company",
+                "external_id": "98600466-ee47-4f3a-b996-91170deedd44",
+                "status": "live",
+                "name": "First Trust/Aberdeen Global Opportunity Income Fund",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Butternut",
+                    "line_2": "El Espino",
+                    "postal_code": "151247"
+                },
+                "timezone": "America/Bogota"
+            },
+            {
+                "object_type": "company",
+                "external_id": "1d001e13-eb42-4837-bada-1891813ee94c",
+                "status": "live",
+                "name": "LINE Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Havey",
+                    "line_2": "Nanam",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Pyongyang"
+            },
+            {
+                "object_type": "company",
+                "external_id": "a9d70c7d-3681-4202-93fd-e36a106a571e",
+                "status": "live",
+                "name": "Alexander & Baldwin Holdings, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Kenwood",
+                    "line_2": "Poxin",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Chongqing"
+            },
+            {
+                "object_type": "company",
+                "external_id": "a091d847-293f-4495-ae10-6b805c16b66a",
+                "status": "live",
+                "name": "Southwest Bancorp, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Parkside",
+                    "line_2": "Thorpe",
+                    "postal_code": "BD23"
+                },
+                "timezone": "Europe/London"
+            },
+            {
+                "object_type": "company",
+                "external_id": "64a233e2-720c-4f4f-ab6b-56799ff06abb",
+                "status": "live",
+                "name": "Fifth Third Bancorp",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Anthes",
+                    "line_2": "København",
+                    "postal_code": "1757"
+                },
+                "timezone": "Europe/Copenhagen"
+            },
+            {
+                "object_type": "company",
+                "external_id": "e22e1139-cabf-4c64-bd0c-9151226747f8",
+                "status": "live",
+                "name": "iShares MSCI Europe Small-Cap ETF",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Acker",
+                    "line_2": "Nueva Guinea",
+                    "postal_code": ""
+                },
+                "timezone": "America/Managua"
+            },
+            {
+                "object_type": "company",
+                "external_id": "a590ad9e-4637-4c86-90b7-0547facb0c0c",
+                "status": "live",
+                "name": "Northrim BanCorp Inc",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Nevada",
+                    "line_2": "Líně",
+                    "postal_code": "330 21"
+                },
+                "timezone": "Europe/Prague"
+            },
+            {
+                "object_type": "company",
+                "external_id": "51cd1f5a-f004-4535-8df2-eee8152be612",
+                "status": "live",
+                "name": "PRA Health Sciences, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Starling",
+                    "line_2": "São Luiz Gonzaga",
+                    "postal_code": "97800-000"
+                },
+                "timezone": "America/Sao_Paulo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "46dd7a89-0cf3-41cc-9c20-82105e8daec5",
+                "status": "live",
+                "name": "Nabriva Therapeutics AG",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Vahlen",
+                    "line_2": "Jiexiu",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Chongqing"
+            },
+            {
+                "object_type": "company",
+                "external_id": "2a55e17a-5d90-482b-ae32-b64fb1d0834d",
+                "status": "live",
+                "name": "Wells Fargo & Company",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Dryden",
+                    "line_2": "Meiyao",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Harbin"
+            },
+            {
+                "object_type": "company",
+                "external_id": "8cb7c360-7305-4754-ba62-6ac74775f98f",
+                "status": "live",
+                "name": "People&#39;s United Financial, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Portage",
+                    "line_2": "Madimba",
+                    "postal_code": ""
+                },
+                "timezone": "Africa/Dar_es_Salaam"
+            },
+            {
+                "object_type": "company",
+                "external_id": "bc6010d4-6c49-4554-a8ac-f682c8441154",
+                "status": "live",
+                "name": "Ferro Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Macpherson",
+                    "line_2": "Jinhua",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Pyongyang"
+            },
+            {
+                "object_type": "company",
+                "external_id": "d5a7bfcf-38f6-4da2-84dd-df070f1681c3",
+                "status": "live",
+                "name": "Steel Partners Holdings LP",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Ilene",
+                    "line_2": "Changkeng",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Shanghai"
+            },
+            {
+                "object_type": "company",
+                "external_id": "e1765a3e-1d3c-4a95-9c9f-f620de530531",
+                "status": "live",
+                "name": "Stein Mart, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Magdeline",
+                    "line_2": "Mehmand Chak",
+                    "postal_code": "50281"
+                },
+                "timezone": "Asia/Karachi"
+            },
+            {
+                "object_type": "company",
+                "external_id": "caffd94c-b43d-4bf0-80f0-c51532fc3fa6",
+                "status": "live",
+                "name": "LeMaitre Vascular, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Oakridge",
+                    "line_2": "Geneng",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Jakarta"
+            },
+            {
+                "object_type": "company",
+                "external_id": "5ead0cd6-e4e8-4003-b08e-ff2153d01760",
+                "status": "live",
+                "name": "Eagle Point Credit Company Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "1st",
+                    "line_2": "Fátima",
+                    "postal_code": "2495-555"
+                },
+                "timezone": "Europe/Lisbon"
+            },
+            {
+                "object_type": "company",
+                "external_id": "e3627f03-5776-4388-8280-b604077b3453",
+                "status": "live",
+                "name": "WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Vera",
+                    "line_2": "Araruama",
+                    "postal_code": "28970-000"
+                },
+                "timezone": "America/Sao_Paulo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "d4d55b6f-5a0e-4d40-a3bc-3522abd4285a",
+                "status": "live",
+                "name": "HSN, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Rusk",
+                    "line_2": "Andapa",
+                    "postal_code": ""
+                },
+                "timezone": "Indian/Antananarivo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "76e1d1c2-460f-4e89-ba65-f8d3c36718a2",
+                "status": "live",
+                "name": "ARMOUR Residential REIT, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Hoffman",
+                    "line_2": "Kamaishi",
+                    "postal_code": "409-2522"
+                },
+                "timezone": "Asia/Tokyo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "4acfe2d4-ee44-47d1-978e-3e47d77231ff",
+                "status": "live",
+                "name": "Easterly Acquisition Corp.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Oak",
+                    "line_2": "Matagbak",
+                    "postal_code": "9504"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "8c5a7ca2-4895-40c1-8fae-c9debe31a1b9",
+                "status": "live",
+                "name": "Banco Bradesco Sa",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Bartillon",
+                    "line_2": "Ayamaru",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Jayapura"
+            },
+            {
+                "object_type": "company",
+                "external_id": "57041b62-3352-475a-92ce-8e09893276ab",
+                "status": "live",
+                "name": "First Data Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Jay",
+                    "line_2": "Hoboksar",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Almaty"
+            },
+            {
+                "object_type": "company",
+                "external_id": "80c9247d-f570-40a7-a31f-7445ef3ca58d",
+                "status": "live",
+                "name": "Tsakos Energy Navigation Ltd",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Autumn Leaf",
+                    "line_2": "Höfn",
+                    "postal_code": "781"
+                },
+                "timezone": "Atlantic/Reykjavik"
+            },
+            {
+                "object_type": "company",
+                "external_id": "b7f68ba1-f6c0-45ca-86f7-7e5396c6b712",
+                "status": "live",
+                "name": "CDI Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Stang",
+                    "line_2": "Mayakovski",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Yerevan"
+            },
+            {
+                "object_type": "company",
+                "external_id": "40c5ddeb-30be-491b-a14f-9098ba83f1ae",
+                "status": "live",
+                "name": "Oclaro, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "New Castle",
+                    "line_2": "Monticello",
+                    "postal_code": "55590"
+                },
+                "timezone": "America/Chicago"
+            },
+            {
+                "object_type": "company",
+                "external_id": "78cb022f-9b23-41a0-a25a-02967682aca6",
+                "status": "live",
+                "name": "Recon Technology, Ltd.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Mosinee",
+                    "line_2": "Gniezno",
+                    "postal_code": "62-210"
+                },
+                "timezone": "Europe/Warsaw"
+            },
+            {
+                "object_type": "company",
+                "external_id": "718583cf-026e-4ad1-bd07-1bbcdbf2e2a3",
+                "status": "live",
+                "name": "iStar Financial Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Cascade",
+                    "line_2": "Yangiobod",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Tashkent"
+            },
+            {
+                "object_type": "company",
+                "external_id": "04bb066a-8b70-430d-99d0-436c209f14a6",
+                "status": "live",
+                "name": "Hecla Mining Company",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Jay",
+                    "line_2": "Carangola",
+                    "postal_code": "36800-000"
+                },
+                "timezone": "America/Sao_Paulo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "33c6466d-ef6a-4a39-ab99-e9ca1380516b",
+                "status": "live",
+                "name": "Humana Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Dwight",
+                    "line_2": "Lelystad",
+                    "postal_code": "8214"
+                },
+                "timezone": "Europe/Amsterdam"
+            },
+            {
+                "object_type": "company",
+                "external_id": "b466603f-8b83-4bb7-9e46-6441ed90fba4",
+                "status": "live",
+                "name": "Delcath Systems, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Center",
+                    "line_2": "Orocuina",
+                    "postal_code": ""
+                },
+                "timezone": "America/Tegucigalpa"
+            },
+            {
+                "object_type": "company",
+                "external_id": "d8703fb2-4168-40b6-bb4b-4a8a650fe3a5",
+                "status": "live",
+                "name": "ECA Marcellus Trust I",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Mayfield",
+                    "line_2": "Botao",
+                    "postal_code": "2422"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "0ca705bb-c61c-4dfb-8d84-c1fedac4d6e0",
+                "status": "live",
+                "name": "Essex Property Trust, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Scott",
+                    "line_2": "Säter",
+                    "postal_code": "783 35"
+                },
+                "timezone": "Europe/Stockholm"
+            },
+            {
+                "object_type": "company",
+                "external_id": "2ba2b733-76a4-4381-90d0-cb7feba70079",
+                "status": "live",
+                "name": "Cushing Renaissance Fund (The)",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Esch",
+                    "line_2": "Phoenix",
+                    "postal_code": "85010"
+                },
+                "timezone": "America/Phoenix"
+            },
+            {
+                "object_type": "company",
+                "external_id": "8d7dd44a-8367-4226-9221-b5f3a492af3d",
+                "status": "live",
+                "name": "iPath US Treasury 2-year Bear ETN",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Tennessee",
+                    "line_2": "Sumberbakti",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Jakarta"
+            },
+            {
+                "object_type": "company",
+                "external_id": "4ced2383-3736-4228-8f37-7c3afa743b86",
+                "status": "live",
+                "name": "StoneMor Partners L.P.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Namekagon",
+                    "line_2": "Jiuheyuan",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Chongqing"
+            },
+            {
+                "object_type": "company",
+                "external_id": "51d94348-5ab6-493e-b75f-fdbde0648cb0",
+                "status": "live",
+                "name": "Naked Brand Group Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Vermont",
+                    "line_2": "Baisha",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Chongqing"
+            },
+            {
+                "object_type": "company",
+                "external_id": "19b18382-5a1d-4285-be57-f03d10360000",
+                "status": "live",
+                "name": "American Homes 4 Rent",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Vernon",
+                    "line_2": "Kallífytos",
+                    "postal_code": ""
+                },
+                "timezone": "Europe/Athens"
+            },
+            {
+                "object_type": "company",
+                "external_id": "6aa2512d-d34b-4fd5-a49c-5f6bc3768674",
+                "status": "live",
+                "name": "NETGEAR, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Almo",
+                    "line_2": "Jianqiao",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Shanghai"
+            },
+            {
+                "object_type": "company",
+                "external_id": "5eff1f28-eb2c-4678-9379-41bdaf6ecbf8",
+                "status": "live",
+                "name": "Bridge Bancorp, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Commercial",
+                    "line_2": "Dorchester",
+                    "postal_code": "E4K"
+                },
+                "timezone": "America/Toronto"
+            },
+            {
+                "object_type": "company",
+                "external_id": "26b22551-bd6a-44ea-a7b6-7bf3d632aa1e",
+                "status": "live",
+                "name": "Ophthotech Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Annamark",
+                    "line_2": "Além Paraíba",
+                    "postal_code": "36660-000"
+                },
+                "timezone": "America/Sao_Paulo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "0b7e5d86-b271-42c0-b810-378ce369e1f8",
+                "status": "live",
+                "name": "TravelCenters of America LLC",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Laurel",
+                    "line_2": "Shreveport",
+                    "postal_code": "71105"
+                },
+                "timezone": "America/Chicago"
+            },
+            {
+                "object_type": "company",
+                "external_id": "ea3c783d-35bc-4202-afcd-6397e49a6ab6",
+                "status": "live",
+                "name": "Nuveen AMT-Free Quality Municipal Income Fund",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Crescent Oaks",
+                    "line_2": "Niutang",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Shanghai"
+            },
+            {
+                "object_type": "company",
+                "external_id": "2448f559-597e-4d9a-a5e2-aabc748d6d6e",
+                "status": "live",
+                "name": "Chimerix, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Comanche",
+                    "line_2": "Sosnovoborsk",
+                    "postal_code": "662518"
+                },
+                "timezone": "Asia/Krasnoyarsk"
+            },
+            {
+                "object_type": "company",
+                "external_id": "e5b4542e-91be-46d9-a642-230d0b59338a",
+                "status": "live",
+                "name": "Frontier Communications Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Mayer",
+                    "line_2": "Bloomington",
+                    "postal_code": "47405"
+                },
+                "timezone": "America/Indiana/Indianapolis"
+            },
+            {
+                "object_type": "company",
+                "external_id": "05705db2-ac6d-40c5-a7bd-bf7ee5016c87",
+                "status": "live",
+                "name": "American River Bankshares",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Bluestem",
+                    "line_2": "Tanjung Palas",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Jakarta"
+            },
+            {
+                "object_type": "company",
+                "external_id": "3d6b8acb-adce-4a05-9dd1-982e74d3c740",
+                "status": "live",
+                "name": "Tailored Brands, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Troy",
+                    "line_2": "Łużna",
+                    "postal_code": "38-322"
+                },
+                "timezone": "Europe/Warsaw"
+            },
+            {
+                "object_type": "company",
+                "external_id": "1f50db3a-8e72-4d0e-822f-2fef6d4f6d69",
+                "status": "live",
+                "name": "Ivy NextShares",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Beilfuss",
+                    "line_2": "Cileueur",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Jakarta"
+            },
+            {
+                "object_type": "company",
+                "external_id": "040d89dc-c324-4dc2-af8e-193803f916ce",
+                "status": "live",
+                "name": "Concord Medical Services Holdings Limited",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Butternut",
+                    "line_2": "Gävle",
+                    "postal_code": "801 33"
+                },
+                "timezone": "Europe/Stockholm"
+            },
+            {
+                "object_type": "company",
+                "external_id": "4c21bebf-9274-43f4-af3b-c95acaaf7183",
+                "status": "live",
+                "name": "Ferrari N.V.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Morning",
+                    "line_2": "La Soledad",
+                    "postal_code": "58118"
+                },
+                "timezone": "America/Mexico_City"
+            },
+            {
+                "object_type": "company",
+                "external_id": "5c384780-6bbe-489f-80a6-99f6526fcb8a",
+                "status": "live",
+                "name": "Unifirst Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Hovde",
+                    "line_2": "Przybiernów",
+                    "postal_code": "72-110"
+                },
+                "timezone": "Europe/Warsaw"
+            },
+            {
+                "object_type": "company",
+                "external_id": "8aa14fc3-4317-4ad6-ac59-5696536c00fe",
+                "status": "live",
+                "name": "Professional Diversity Network, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Mayer",
+                    "line_2": "Puerto Quijarro",
+                    "postal_code": ""
+                },
+                "timezone": "America/Campo_Grande"
+            },
+            {
+                "object_type": "company",
+                "external_id": "101acaf8-ce10-422b-8e52-dea4ebdb1353",
+                "status": "live",
+                "name": "PowerShares DWA Emerging Markets Momentum Portfolio",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Ludington",
+                    "line_2": "Rukaj",
+                    "postal_code": ""
+                },
+                "timezone": "Europe/Tirane"
+            },
+            {
+                "object_type": "company",
+                "external_id": "0f11054b-167a-4eef-a0b1-3333d4896524",
+                "status": "live",
+                "name": "Fuwei Films (Holdings) Co., Ltd.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Buhler",
+                    "line_2": "Sengeti",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Jakarta"
+            },
+            {
+                "object_type": "company",
+                "external_id": "5f4c1a46-3ae9-4a8c-8617-28b746a0a612",
+                "status": "live",
+                "name": "JMP Group LLC",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Muir",
+                    "line_2": "'Ali Sabieh",
+                    "postal_code": ""
+                },
+                "timezone": "Africa/Djibouti"
+            },
+            {
+                "object_type": "company",
+                "external_id": "f76a3a13-5617-4ad4-8b61-da6cc9609954",
+                "status": "live",
+                "name": "Community Health Systems, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Michigan",
+                    "line_2": "Cravinhos",
+                    "postal_code": "14140-000"
+                },
+                "timezone": "America/Sao_Paulo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "d26d0b53-5eb2-4207-a9bc-7c8e209c82f6",
+                "status": "live",
+                "name": "JAKKS Pacific, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Summerview",
+                    "line_2": "Malartic",
+                    "postal_code": "X0G"
+                },
+                "timezone": "America/Montreal"
+            },
+            {
+                "object_type": "company",
+                "external_id": "13f26e87-93c5-4f36-b5bb-993d433e2430",
+                "status": "live",
+                "name": "Kohl&#39;s Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Loeprich",
+                    "line_2": "Dijon",
+                    "postal_code": "21900 CEDEX 9"
+                },
+                "timezone": "Europe/Paris"
+            },
+            {
+                "object_type": "company",
+                "external_id": "87be10f7-4d0d-44f9-923d-94ac100d9e52",
+                "status": "live",
+                "name": "QAD Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Eagle Crest",
+                    "line_2": "Fullerton",
+                    "postal_code": "92835"
+                },
+                "timezone": "America/Los_Angeles"
+            },
+            {
+                "object_type": "company",
+                "external_id": "f307c51c-c105-47be-9fcf-2ef95d0611dc",
+                "status": "live",
+                "name": "ACNB Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Westport",
+                    "line_2": "Ozerki",
+                    "postal_code": "606243"
+                },
+                "timezone": "Europe/Moscow"
+            },
+            {
+                "object_type": "company",
+                "external_id": "e9b07b18-f302-46c6-a50b-192419acd421",
+                "status": "live",
+                "name": "Cellectar Biosciences, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Sloan",
+                    "line_2": "Imtarfa",
+                    "postal_code": "ZBG"
+                },
+                "timezone": "Europe/Malta"
+            },
+            {
+                "object_type": "company",
+                "external_id": "e9b2e2cd-16b4-478c-bb84-23d6bf5ff5e5",
+                "status": "live",
+                "name": "Mobile Mini, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Lillian",
+                    "line_2": "Dukay",
+                    "postal_code": "2101"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "5c86e91d-8780-45f2-ac25-2b9211ddd92f",
+                "status": "live",
+                "name": "HomeTrust Bancshares, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Dottie",
+                    "line_2": "Vyzhnytsya",
+                    "postal_code": ""
+                },
+                "timezone": "Europe/Uzhgorod"
+            },
+            {
+                "object_type": "company",
+                "external_id": "643cc3a1-1efa-438b-84f4-83bf24ef36fb",
+                "status": "live",
+                "name": "TFS Financial Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Sullivan",
+                    "line_2": "Rengat",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Jakarta"
+            },
+            {
+                "object_type": "company",
+                "external_id": "5238e4da-e824-4e68-b616-b9c9b1e2e45d",
+                "status": "live",
+                "name": "Miller/Howard High Income Equity Fund",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Ruskin",
+                    "line_2": "Guachetá",
+                    "postal_code": "250618"
+                },
+                "timezone": "America/Bogota"
+            },
+            {
+                "object_type": "company",
+                "external_id": "03e0c6a2-3dc5-4111-86c5-01aac61e9307",
+                "status": "live",
+                "name": "American Electric Power Company, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "East",
+                    "line_2": "Dongjiang Matoukou",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Shanghai"
+            },
+            {
+                "object_type": "company",
+                "external_id": "a9cb5b32-49f8-4f35-be40-82bb5d2f1764",
+                "status": "live",
+                "name": "Centrais Electricas Brasileiras S.A.- Eletrobras",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Quincy",
+                    "line_2": "Hitura",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Kathmandu"
+            },
+            {
+                "object_type": "company",
+                "external_id": "ee9cb914-e464-41e4-899a-374c16c25780",
+                "status": "live",
+                "name": "TravelCenters of America LLC",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Melby",
+                    "line_2": "Santo Domingo",
+                    "postal_code": "4508"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "f90e8fa7-f1a7-4085-85bb-42432287708c",
+                "status": "live",
+                "name": "Teekay Offshore Partners L.P.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Monument",
+                    "line_2": "Bang Pakong",
+                    "postal_code": "24130"
+                },
+                "timezone": "Asia/Bangkok"
+            },
+            {
+                "object_type": "company",
+                "external_id": "0556ade8-746a-4076-aaa9-9e78211d9d7f",
+                "status": "live",
+                "name": "Gabelli Utility Trust (The)",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Bay",
+                    "line_2": "Velká nad Veličkou",
+                    "postal_code": "696 74"
+                },
+                "timezone": "Europe/Prague"
+            },
+            {
+                "object_type": "company",
+                "external_id": "7f86d12b-e640-477f-a7dc-c7cbd2db74d5",
+                "status": "live",
+                "name": "Heritage Financial Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Menomonie",
+                    "line_2": "Balas",
+                    "postal_code": "2007"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "0c37d591-7752-47f1-8291-ffebe23c4e47",
+                "status": "live",
+                "name": "Social Reality, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Jenna",
+                    "line_2": "Zengguang",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Chongqing"
+            },
+            {
+                "object_type": "company",
+                "external_id": "a00fb2db-ac1a-450b-92b2-27c62befb0bc",
+                "status": "live",
+                "name": "ChemoCentryx, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Waubesa",
+                    "line_2": "Borovlyany",
+                    "postal_code": ""
+                },
+                "timezone": "Europe/Minsk"
+            },
+            {
+                "object_type": "company",
+                "external_id": "9862ef59-7630-4506-b06c-82cd81826463",
+                "status": "live",
+                "name": "Cracker Barrel Old Country Store, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Buell",
+                    "line_2": "Al Qanāţir al Khayrīyah",
+                    "postal_code": ""
+                },
+                "timezone": "Africa/Cairo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "c32bc680-a19d-4773-9caa-d90420215661",
+                "status": "live",
+                "name": "Lamar Advertising Company",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Veith",
+                    "line_2": "Bukal Sur",
+                    "postal_code": "4323"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "2a2c5021-1363-485d-a321-ebac28566f5c",
+                "status": "live",
+                "name": "PIMCO Strategic Income Fund, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Manley",
+                    "line_2": "Gigante",
+                    "postal_code": "414009"
+                },
+                "timezone": "America/Bogota"
+            },
+            {
+                "object_type": "company",
+                "external_id": "dd41129a-58a4-40b5-a650-1543d6e0b5da",
+                "status": "live",
+                "name": "Franklin Universal Trust",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Mccormick",
+                    "line_2": "Il’ka",
+                    "postal_code": "671331"
+                },
+                "timezone": "Asia/Yakutsk"
+            },
+            {
+                "object_type": "company",
+                "external_id": "dd0702b2-2473-40e4-b50b-2eb46b93b8cb",
+                "status": "live",
+                "name": "Proto Labs, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Ridge Oak",
+                    "line_2": "Domanín",
+                    "postal_code": "593 01"
+                },
+                "timezone": "Europe/Bratislava"
+            },
+            {
+                "object_type": "company",
+                "external_id": "106405c5-9215-4507-bfbc-5a6bed0bbc3c",
+                "status": "live",
+                "name": "Nuveen Real Estate Fund",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Farmco",
+                    "line_2": "Sabana Grande de Palenque",
+                    "postal_code": "11704"
+                },
+                "timezone": "America/Santo_Domingo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "ea6cf514-8bfb-447d-a023-20236748cf2f",
+                "status": "live",
+                "name": "Legg Mason US Diversified Core ETF",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Grim",
+                    "line_2": "Jakobstad",
+                    "postal_code": "68660"
+                },
+                "timezone": "Europe/Helsinki"
+            },
+            {
+                "object_type": "company",
+                "external_id": "55e9774e-540f-438b-bf66-a247061d896d",
+                "status": "live",
+                "name": "Anworth Mortgage Asset  Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Lukken",
+                    "line_2": "Timpas",
+                    "postal_code": "5805"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "c12550c1-4199-49b7-91db-bd3484c5ef78",
+                "status": "live",
+                "name": "Cedar Realty Trust, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Bluestem",
+                    "line_2": "Huantuo",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Shanghai"
+            },
+            {
+                "object_type": "company",
+                "external_id": "2c16671c-f981-476b-a288-72731a0f9d13",
+                "status": "live",
+                "name": "J.B. Hunt Transport Services, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Tennyson",
+                    "line_2": "Vallauris",
+                    "postal_code": "06224 CEDEX"
+                },
+                "timezone": "Europe/Paris"
+            },
+            {
+                "object_type": "company",
+                "external_id": "6c9a3765-5e98-4c67-9c4c-10e1c5ef7de9",
+                "status": "live",
+                "name": "iStar Financial Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Kim",
+                    "line_2": "Kuanping",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Chongqing"
+            },
+            {
+                "object_type": "company",
+                "external_id": "01e69117-0607-4dfe-8eb7-7c4f6e85fcfe",
+                "status": "live",
+                "name": "EVINE Live Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Arapahoe",
+                    "line_2": "San Antonio",
+                    "postal_code": "6407"
+                },
+                "timezone": "Asia/Manila"
+            },
+            {
+                "object_type": "company",
+                "external_id": "4c1888f7-cc52-4e16-8850-c0b4619491e0",
+                "status": "live",
+                "name": "Advent Claymore Convertible Securities and Income Fund II",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Northport",
+                    "line_2": "Hallsberg",
+                    "postal_code": "694 24"
+                },
+                "timezone": "Europe/Stockholm"
+            },
+            {
+                "object_type": "company",
+                "external_id": "27ea311e-1faa-468f-b296-149e4ad54286",
+                "status": "live",
+                "name": "Sears Holdings Corporation",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Fair Oaks",
+                    "line_2": "Krynki",
+                    "postal_code": "16-120"
+                },
+                "timezone": "Europe/Warsaw"
+            },
+            {
+                "object_type": "company",
+                "external_id": "57651883-8870-43c2-86e3-22fb58e30801",
+                "status": "live",
+                "name": "Stellar Acquisition III Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Nelson",
+                    "line_2": "Pavlohrad",
+                    "postal_code": ""
+                },
+                "timezone": "Europe/Zaporozhye"
+            },
+            {
+                "object_type": "company",
+                "external_id": "29ca6c93-68ae-49eb-ac3e-c49cefec52ef",
+                "status": "live",
+                "name": "Sprague Resources LP",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Ryan",
+                    "line_2": "Andapa",
+                    "postal_code": ""
+                },
+                "timezone": "Indian/Antananarivo"
+            },
+            {
+                "object_type": "company",
+                "external_id": "1727c94e-3963-4064-970f-e5b5bc3000fb",
+                "status": "live",
+                "name": "XO Group, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Butterfield",
+                    "line_2": "Bogojevo",
+                    "postal_code": ""
+                },
+                "timezone": "Europe/Belgrade"
+            },
+            {
+                "object_type": "company",
+                "external_id": "703fe244-58b6-447f-ad79-d988223d633e",
+                "status": "live",
+                "name": "XG Technology, Inc",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "East",
+                    "line_2": "Oof",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Makassar"
+            },
+            {
+                "object_type": "company",
+                "external_id": "5c4e3018-ee94-45e7-88e1-e051bb9bc615",
+                "status": "live",
+                "name": "NetEase, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Ronald Regan",
+                    "line_2": "Górzno",
+                    "postal_code": "87-320"
+                },
+                "timezone": "Europe/Warsaw"
+            },
+            {
+                "object_type": "company",
+                "external_id": "d31386ef-cef2-4b05-b8c3-409b6469280b",
+                "status": "live",
+                "name": "LM Funding America, Inc.",
+                "last_modified": "2018-08-15T08:49:11.807Z",
+                "address": {
+                    "line_1": "Barnett",
+                    "line_2": "Danyang",
+                    "postal_code": ""
+                },
+                "timezone": "Asia/Shanghai"
+            }
+        ]
+    }
+}
